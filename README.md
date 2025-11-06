@@ -22,7 +22,7 @@ This repository serves as a **case study** to document the project's architectur
 
 ## 5. My Role & Contributions
 
-As a member of a [X-person, e.g., 3-person] team, I was an active contributor across all project phases. My primary focus and most significant contributions were on **Project 1: Threads & Scheduling**.
+As a member of a 3-person team, I was an active contributor across all project phases. My primary focus and most significant contributions were on **Project 1: Threads & Scheduling**.
 
 Specifically, I:
 * **Implemented Priority Scheduling:** Modified the Pintos thread scheduler to select the highest-priority thread to run, rather than a simple round-robin.
