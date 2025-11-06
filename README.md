@@ -1,7 +1,5 @@
 # Operating Systems Project: Implementing Pintos
 
-![Project Screenshot / Architecture Diagram]
-*(A great image here would be an architecture diagram of a kernel, or a screenshot of your terminal showing your new scheduler working.)*
 
 ## 1. Project Overview
 
